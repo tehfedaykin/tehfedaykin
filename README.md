@@ -2,8 +2,8 @@
 
 I'm Jennifer Wadella, **Director of Angular Development** at [Bitovi](https://www.bitovi.com/), Conference Speaker, Community Organizer, Non-profit founder. I specialize in building Angular applications, and building highly functional and effective software teams. 
 
-- 🔭 I’m currently working on growing my Angular team. Interested? [Apply here](https://www.bitovi.com/about/jobs). 
-- 🌱 I’m currently learning how to optimize my note taking with Obsidian.
+- 🔭 I’m currently working on growing my Angular team. Interested? [Apply here](https://www.bitovi.com/about/jobs). I'm also coaching clients on Reactive Programming and Micro Frontend best practices. 
+- 🌱 I’m currently learning how to optimize my note taking with [Obsidian](https://obsidian.md/).
 - 💬 Ask me about Angular projects, Angular training, Community Organizing help, getting started in conference speaking
 - 📫 How to reach me: jennifer[at]bitovi.com
 - 😄 Pronouns: She/her
