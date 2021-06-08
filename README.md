@@ -27,6 +27,7 @@ I'm Jennifer Wadella, **Director of Angular Development** at [Bitovi](https://ww
 - [Leadership without a Paycheck](https://leadershipwithoutapaycheck.jenniferwadella.com/#/title)
 - [Mentoring - the Future of Technology Education](https://tehfedaykin.github.io/TechMentoring/#/)
 - [Onboard New Devs FASTER with Custom Snippets!](https://tehfedaykin.github.io/CustomSnippets/#/title)
+- [Reactive Programming Crash Course for Angular Baes](https://reactiveprogrammingforangularbaes.jenniferwadella.com/)
 - [Reactive Programming, State Management, & Redux for the Modern Front End Developer](https://statemanagement.jenniferwadella.com/)
 - [Supporting Old-Fashioned AngularJS Apps in a Modern TypeScript World](https://tehfedaykin.github.io/ModernizingAngularJSApps/#/title)
 - [There Are No Snow Days When You Work Remote](https://tehfedaykin.github.io/NoSnowDaysWhenYouWorkRemote/#/title)
