@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Jennifer Wadella, **Director of Angular Development** at [Bitovi](https://www.bitovi.com/), Conference Speaker, Community Organizer, Non-profit founder. I specialize in building Angular applications, and building highly functional and effective software teams. 
+I'm Jennifer Wadella, **VP of Frontend Engineering** at [Bitovi](https://www.bitovi.com/), Conference Speaker, Community Organizer, Non-profit founder. I specialize in building highly functional and effective software teams. 
 
-- 🔭 I’m currently working on growing my Angular team. Interested? [Apply here](https://www.bitovi.com/about/jobs). I'm also coaching clients on Reactive Programming and Micro Frontend best practices. 
+- 🔭 I'm currently coaching clients on building better engineering culture, project management, Reactive Programming and Micro Frontend architecture best practices. 
 - 🌱 I’m currently learning how to optimize my note taking with [Obsidian](https://obsidian.md/).
-- 💬 Ask me about Angular projects, Angular training, Community Organizing help, getting started in conference speaking
+- 💬 Ask me about Engineering Management, Boosting Engineering Productivity, Community Organizing help, or getting started in conference speaking
 - 📫 How to reach me: jennifer[at]bitovi.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I used to play Halo2 competitively on the WSVG/MLG circuits. 
